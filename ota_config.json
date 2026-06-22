@@ -1,5 +1,5 @@
 {
-  "target_board": "NONE",
-  "firmware_url": "",
+  "target_board": "BOARD_001",
+  "firmware_url": "https://raw.githubusercontent.com/Prabakaran18173/esp32-ota-firmware/main/app-template.bin",
   "version": "1.0"
 }
